@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Spekfikasi Oppo f11 pro tugas kuliah </title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="container">
+            <center>
+                <h2>Spesfikasi Oppo F11Pro</h2>
+            </center>
+
+            <body>
+                <div class="post-body">
+                    <table cellpadding="0" cellspacing="0" style="text-align: left;">
+                        <tbody>
+                            <tr>
+                                <th colspan="2" scope="col" style="text-align: center;">Spesifikasi Oppo F11 Pro</th>
+                            </tr>
+                            <tr>
+                                <td>NETWORK</td>
+                                <td>GSM / HSPA / LTE</td>
+                            </tr>
+                            <tr>
+                                <td>LAUNCH</td>
+                                <td>2019, February</td>
+                            </tr>
+                            <tr>
+                                <td>SIM</td>
+                                <td>Dual SIM (Nano-SIM, dual stand-by)</td>
+                            </tr>
+                            <tr>
+                                <td>MEMORY</td>
+                                <td>microSD, up to 256 GB (dedicated slot)</td>
+                            </tr>
+                            <tr>
+                                <td>BATTERY</td>
+                                <td>Non-removable Li-Po 3700 mAh battery</td>
+                            </tr>
+                            <tr>
+                                <th colspan="2" scope="col" style="text-align: center;">OS & Hardware</th>
+                            </tr>
+                            <tr>
+                                <td>OS</td>
+                                <td>Android 9.0 (Pie); Funtouch 9</td>
+                            </tr>
+                            <tr>
+                                <td>Chipset</td>
+                                <td>Qualcomm SDM675 Snapdragon 675 (11 nm)</td>
+                            </tr>
+                            <tr>
+                                <td>CPU</td>
+                                <td>Octa-core (2x2.0 GHz Kryo 460 Gold &amp; 6x1.7 GHz Kryo 460 Silver)</td>
+                            </tr>
+                            <tr>
+                                <td>GPU</td>
+                                <td>Adreno 612</td>
+                            </tr>
+                            <tr>
+                                <th colspan="2" scope="col" style="text-align: center;">BODY</th>
+                            </tr>
+                            <tr>
+                                <td>Dimensions</td>
+                                <td>157.3 x 74.7 x 8.2 mm (6.19 x 2.94 x 0.32 in)</td>
+                            </tr>
+                            <tr>
+                                <td>Weight</td>
+                                <td>185 g (6.53 oz)</td>
+                            </tr>
+                            <tr>
+                                <td>Build</td>
+                                <td>Front glass, plastic body</td>
+                            </tr>
+                            <tr>
+                                <th colspan="2" scope="col" style="text-align: center;">MAIN CAMERA</th>
+                            </tr>
+                            <tr>
+                                <td>Triple</td>
+                                <td>48 MP, f/1.8, 1/2", 0.8µm, PDAF, 8 MP, f/2.2, 13mm (ultrawide), 5 MP, f/2.4, depth
+                                    sensor</td>
+                            </tr>
+                            <tr>
+                                <td>Features</td>
+                                <td>LED flash, HDR, panorama</td>
+                            </tr>
+                            <tr>
+                                <td>Video</td>
+                                <td>2160p@30fps, 1080p@30/60fps</td>
+                            </tr>
+                            <tr>
+                                <th colspan="2" scope="col" style="text-align: center;">SELFIE CAMERA</th>
+                            </tr>
+                            <tr>
+                                <td>Single</td>
+                                <td>Motorized pop-up 32 MP, f/2.0</td>
+                            </tr>
+                            <tr>
+                                <td>Features</td>
+                                <td>HDR</td>
+                            </tr>
+                            <tr>
+                                <td>Video</td>
+                                <td>1080p@30fps</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="oppof11pro">
+                        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tokopedia.com%2Fcatalog%2Foppo-65040%2Foppo-f11-pro&psig=AOvVaw0VmaDxZ73Q1y2_CxvsqYPZ&ust=1711108852106000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDUj7CnhYUDFQAAAAAdAAAAABAE" alt="">
+                    </div>
+
+                    <div class="name">
+                        <p>Name : Ikmal Akbar Amirullah</p>
+                        <p>Nim :17210150</p>
+                        <p>Tugas :Web Programing 2 </p>
+                    </div>
+            </body>
+
+</html>
+
+a:link {
+  text-decoration: none;
+  outline: none;
+  transition: all 0.25s;
+}
+a:visited,
+a:link:hover,
+a:visited:hover {
+  text-decoration: none;
+}
+body {
+  background: #fafafa none repeat scroll top left;
+  color: #222;
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  line-height: normal;
+}
+.container {
+  background: #fff;
+  max-width: 768px;
+  margin: 4% auto;
+  padding: 20px;
+  font-family: "Open Sans", sans-serif;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.container h3 {
+  background: #fff;
+  position: relative;
+  overflow: hidden;
+  margin: 0 0 20px 0;
+  font-size: 1em;
+  text-align: center;
+  font-weight: 700;
+  vertical-align: middle;
+  padding: 0 12px 20px 12px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+table,
+caption,
+tbody {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.post-body table td,
+.post-body table caption {
+  border: 1px solid #e9e9e9;
+  padding: 7px;
+  text-align: left;
+  vertical-align: top;
+}
+.post-body table tr th {
+  border: 1px solid #6f7785;
+  color: #fff;
+  padding: 8px 10px;
+  text-align: left;
+  vertical-align: top;
+  font-size: 16px;
+}
+.post-body table th {
+  background: #747d8c;
+}
+.post-body table tr th:hover {
+  background: #57606f;
+}
+.post-body table.tr-caption-container {
+  border: 1px solid #f6f8f9;
+}
+.post-body table caption {
+  border: none;
+  font-style: italic;
+}
+.post-body td,
+.post-body th {
+  color: #57606f;
+  vertical-align: top;
+  text-align: left;
+  font-size: 15px;
+  padding: 3px 5px;
+}
+.post-body table tr:nth-child(even) > td {
+  background-color: #ecf0f1;
+}
+.post-body table tr:nth-child(odd) > td {
+  background-color: #f6f8f9;
+}
+.post-body td a {
+  color: #768187;
+  padding: 0 6px;
+  font-size: 85%;
+  float: right;
+  display: inline-block;
+  border-radius: 3px;
+}
+.post-body td a:hover {
+  color: #7f9bdf;
+  border-color: #adbce0;
+}
+.post-body td a[target="_blank"]:after {
+  margin-left: 5px;
+}
+.post-body table.tr-caption-container td {
+  border: none;
+  padding: 8px;
+}
+.post-body table.tr-caption-container,
+.post-body table.tr-caption-container img,
+.post-body img {
+  max-width: 100%;
+  height: auto;
+}
+.post-body td.tr-caption {
+  color: #666;
+  font-size: 80%;
+  padding: 0px 8px 8px !important;
+}
+table {
+  max-width: 100%;
+  width: 100%;
+  margin: 1.5em auto;
+}
+table.section-columns td.first.columns-cell {
+  border-left: none;
+}
+table.section-columns {
+  border: none;
+  table-layout: fixed;
+  width: 100%;
+  position: relative;
+}
+table.columns-2 td.columns-cell {
+  width: 50%;
+}
+table.columns-3 td.columns-cell {
+  width: 33.33%;
+}
+table.columns-4 td.columns-cell {
+  width: 25%;
+}
+table.section-columns td.columns-cell {
+  vertical-align: top;
+}
+table.tr-caption-container {
+  padding: 4px;
+  margin-bottom: 0.5em;
+}
+td.tr-caption {
+  font-size: 80%;
+}
+.post-body table tr:hover td {
+  background: #b0b1b4;
+  color: #ffffff;
+  border-top: 1px solid #22262e;
+}
+table tr:nth-child(odd):hover td {
+  background: #b0b1b4;
+}
+.name_{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    font-weight: 10px;
+
+}
